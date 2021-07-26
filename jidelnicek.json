@@ -1,0 +1,245 @@
+{
+    "29":{
+        "snidane":{
+            "co": "∅",
+            "kolik": 0
+        },
+        "sv1":{
+            "co": "bagetky",
+            "kolik": "1 bagetka + 1 plátek sýra + 1 plátek šunky + 0.1 paprika"
+        },
+        "obed":{
+            "co": "těstovinový salát s jogurtem",
+            "kolik": "0.1 kg těstoviny + 0.03 kg šunka + 0.03 kg sýr + 0.03 kg jogurt + 1/6 ks okurka + 1 ks rajče + 1/6 ks paprika + 0.005 kg majonéza + 0.03 kg kukuřice"
+        },
+        "sv2":{
+            "co": "banán",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "čínské nudle wokin",
+            "kolik": "0.1 kg čínské nudle + 0.1 ks česnek + 0.3 ks mražená zeleninová směs na čínu + 0.05 kg kuřecí maso"
+        }
+    },
+    "30":{
+        "snidane":{
+            "co": "buchty od mam",
+            "kolik": 1
+        },
+        "sv1":{
+            "co": "lipánek",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "sekaná se šťouchanými brambory s pažitkou a jogurtovým dipem",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "buchty od mam, případně jablko",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "chilli con carne",
+            "kolik": "1"
+        }
+    },
+    "31":{
+        "snidane":{
+            "co": "česneková a řektvičková pomazánka s rohlíkem",
+            "kolik": "řektvičky + jarní cibulka + 1.5/40 kg tvaroh + 0.5/40 kg jogurt + česnek"
+        },
+        "sv1":{
+            "co": "jablko",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "špenát s cibulí a kuřecím masem",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "zmrzlina",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "povidlové buchty do trouby",
+            "kolik": "1"
+        }
+    },
+    "1":{
+        "snidane":{
+            "co": "musli s mlékem, případně marmeláda s jogurtem",
+            "kolik": "1"
+        },
+        "sv1":{
+            "co": "jogurt",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "brokoliová polévka + masové kuličky s Ikea omáčkou",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "jablka",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "tvarohové knedlíky",
+            "kolik": "1",
+            "odkaz": "https://recepty.vareni.cz/tvarohove-knedliky-se-smetanou-a-jahodami/"
+        }
+    },
+    "2":{
+        "snidane":{
+            "co": "chleba s nutelou, marmeládou, máslem apod.",
+            "kolik": "1"
+        },
+        "sv1":{
+            "co": "maková buchta s citronovou polevou https://www.vareni.cz/recepty/hrnkova-makova-buchta/",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "zeleninovo masový vývar + zapečené těstoviny několika příchutí (kari, s kyselým zelím na pánvi) + 2x salát z červeného zelí",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "zmrzlina",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "ramen",
+            "kolik": "1"
+        }
+    },
+    "3":{
+        "snidane":{
+            "co": "britská snídaně kde se napráskaj jak dobytci",
+            "kolik": "vajíčka + slanina + klobása"
+        },
+        "sv1":{
+            "co": "sušenka",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "bageta jak ze Subway",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "zelenina",
+            "kolik": "1/4 okurka + mrkev"
+        },
+        "vecere":{
+            "co": "kekely a čínské mňamky",
+            "kolik": "1/2 kekel + 1 čínská polévka"
+        }
+    },
+    "4":{
+        "snidane":{
+            "co": "chleby s random věcma",
+            "kolik": "krajíc chleba + tavený sýr + 0.1 kg salám"
+        },
+        "sv1":{
+            "co": "sušenka",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "Sushi",
+            "kolik": "8"
+        },
+        "sv2":{
+            "co": "perník",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "svíčková s brusinkama a knedlíkem",
+            "kolik": "1"
+        }
+    },
+    "5":{
+        "snidane":{
+            "co": "musli s mlékem",
+            "kolik": "1"
+        },
+        "sv1":{
+            "co": "jogurty",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "vegetariánská indická směs",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "zmrzlina",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "krupicová kaše",
+            "kolik": "1"
+        }
+    },
+    "6":{
+        "snidane":{
+            "co": "špenáová pomazánka s chlebem",
+            "kolik": "1"
+        },
+        "sv1":{
+            "co": "ovoce",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "sýrová omáčka s noky",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "jogurt",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "pizza",
+            "kolik": "1"
+        }
+    },
+    "7":{
+        "snidane":{
+            "co": "musli s mlékem",
+            "kolik": "1"
+        },
+        "sv1":{
+            "co": "slaný štrůdl třeba",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "šišky s mákem",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "ovoce",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "grilovaný prase a tak",
+            "kolik": "1"
+        }
+    },
+    "8":{
+        "snidane":{
+            "co": "zbytky",
+            "kolik": "1"
+        },
+        "sv1":{
+            "co": "zbytky",
+            "kolik": "1"
+        },
+        "obed":{
+            "co": "",
+            "kolik": "1"
+        },
+        "sv2":{
+            "co": "",
+            "kolik": "1"
+        },
+        "vecere":{
+            "co": "",
+            "kolik": "1"
+        }
+    }
+}
