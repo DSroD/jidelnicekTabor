@@ -87,7 +87,7 @@
         },
         "vecere":{
             "co": "tvarohové knedlíky",
-            "kolik": "0.25 ks vejce + 0.0625 kg polohrubá mouka + 0.0625 měkký tvaroh + 0.0625 jahody + 0.05 kg zakysaná smetana",
+            "kolik": "0.25 ks vejce + 0.0625 kg polohrubá mouka + 0.0625 kg měkký tvaroh + 0.0625 kg jahody + 0.05 kg zakysaná smetana",
             "recept": "https://recepty.vareni.cz/tvarohove-knedliky-se-smetanou-a-jahodami/"
         }
     },
@@ -98,13 +98,12 @@
         },
         "sv1":{
             "co": "maková buchta s citronovou polevou",
-            "kolik": "0.01 kg olej + 0.25 ks vejce + 0.017 kg mák + 0.012 kg cukr krystal + 0.012 kg hladká mouka + 0.012 polohrubá mouka + 0.125 ks kypřící prášek do pečiva + 0.025 kg mléko + 0.125 ks vanilkový cukr",
+            "kolik": "0.01 kg olej + 0.25 ks vejce + 0.017 kg mák + 0.012 kg cukr krystal + 0.012 kg hladká mouka + 0.012 kg polohrubá mouka + 0.125 ks kypřící prášek do pečiva + 0.025 kg mléko + 0.125 ks vanilkový cukr",
             "recept": "https://www.vareni.cz/recepty/hrnkova-makova-buchta/"
         },
-        "obed":{
-            "co": "zeleninovo masový vývar a zapečené těstoviny několika příchutí (kari, kyselé zelí) se salátem z červeného zelí",
-            "kolik": "0.1 ks červené zelí + 0.02 kg kyselé zelí + 0.08 kg těstoviny + 0.75 ks vejce + 0.25 ks cibule + 0.05 kg sýr + 0.02 kg smetana ke šlehání + 0.04 kg uzené maso",
-            "recept": "https://www.vareni.cz/recepty/zapecene-testoviny-s-uzenym-masem/"
+        "oběd":{
+            "co": "pizza",
+            "kolik": "0.1 kg hladká mouka + 0.07 kg salám + 0.02 kg ananas + 0.01 kg olivy + 0.1 kg sýr + 0.05 kg žampiony + 0.02 kg rajský protlak"
         },
         "sv2":{
             "co": "zmrzlina",
@@ -203,8 +202,8 @@
             "kolik": "1 ks jogurt na svačinu"
         },
         "vecere":{
-            "co": "pizza",
-            "kolik": "0.1 kg hladká mouka + 0.07 kg salám + 0.02 kg ananas + 0.01 kg olivy + 0.1 kg sýr + 0.05 kg žampiony + 0.02 kg rajský protlak"
+            "co": "lokální vaření s globální nápovědou",
+            "kolik": "0.1 kg těstoviny + 0.03 kg mražená kukuřice + 0.06 kg mražený hrášek + 0.03 kg kečup + 0.25 ks cibule + 0.3 kg klobása + 1 ks vejce"
         }
     },
     "7":{
@@ -228,27 +227,7 @@
             "co": "grilovaný prase a tak",
             "kolik": "0.15 kg maso na gril + 0.1 kg random zelenina ke grilu + 0.05 kg cuketa na grilování + 0.05 kg germelíny na gril"
         }
-    },
-    "8":{
-        "snidane":{
-            "co": "zbytky",
-            "kolik": "1"
-        },
-        "sv1":{
-            "co": "zbytky",
-            "kolik": "1"
-        },
-        "obed":{
-            "co": "",
-            "kolik": ""
-        },
-        "sv2":{
-            "co": "",
-            "kolik": ""
-        },
-        "vecere":{
-            "co": "",
-            "kolik": ""
-        }
     }
 }
+
+
